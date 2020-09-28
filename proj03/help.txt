@@ -1,0 +1,33 @@
+https://www.geeksforgeeks.org/system-call-in-c/
+    Helpful website for system calls and c++
+
+
+https://www.learncpp.com/cpp-tutorial/713-command-line-arguments/
+    Command line???
+
+https://linux.die.net/man/3/execve
+    execve
+
+http://www.cplusplus.com/reference/cstdlib/calloc/
+    calloc
+
+https://stackoverflow.com/questions/14015967/in-c-how-to-get-number-of-items-in-array-of-pointers-to-char-strings?noredirect=1&lq=1
+    num items in char**
+
+http://www.enseignement.polytechnique.fr/informatique/INF478/docs/Cpp/en/cpp/utility/program/getenv.html
+
+https://stackoverflow.com/questions/298510/how-to-get-the-current-directory-in-a-c-program
+    getcwd
+
+https://gist.github.com/0017031/0d92c35d1a2ad103deb195c3495f56ed
+
+http://man7.org/linux/man-pages/man3/opendir.3.html
+
+http://man7.org/linux/man-pages/man3/readdir.3.html
+
+https://pubs.opengroup.org/onlinepubs/009695399/functions/closedir.html
+
+https://www.tutorialspoint.com/how-can-i-get-the-list-of-files-in-a-directory-using-c-or-cplusplus
+
+https://stackoverflow.com/questions/2085302/printing-all-environment-variables-in-c-c
+    Process environment
