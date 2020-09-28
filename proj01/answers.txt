@@ -1,0 +1,26 @@
+How many bytes of RAM does the virtual machine have by default?
+1024 words
+
+What are the registers that the virtual machine has?
+reg0, reg1, reg2, & pc
+
+What arguments does the instruction JLZ take and what does the instruction do?
+JLZ takes a CPU object, a source register object, and a destination being a register or an instruction. If the source register is less than 0, change the pc register to the destination register.
+
+When does the CPU check if an interrupt has occurred?
+After performing every instruction
+
+What does the Monitor instruction S do?
+Shows what's in memory from the starting location to the end location
+
+What does the Monitor instruction ! do?
+Toggle whether debugging is on or off
+
+Can assembly language files contain comments? How about blank lines?
+Yes, they need to start with the '#' symbol. Yes, the monitor skips empty lines
+
+What function is called to write bytes into memory?
+_poke_ram
+
+Do assembly language programs assume they are loaded into memory at certain locations?
+Yes, because they are given a starting address when they're loaded into memory

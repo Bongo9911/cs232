@@ -1,0 +1,147 @@
+Script started on 2020-04-11 21:56:03-0400
+]0;dab33@gold04: ~/cs/232/proj06[01;32mdab33@gold04[00m:[01;34m~/cs/232/proj06[00m$ ./bakesop  hop
+Bakery is starting up...
+Customer #2 has entered the store
+Customer #1 has entered the store
+Customer #4 has entered the store
+Customer #3 has entered the store
+Customer #5 has entered the store
+A loaf of bread has been baked!
+Customer #2 has taken a loaf of bread.
+Customer #2 has paid for the loaf of bread.
+Customer #2 has been handed their receipt.
+Customer #2 has gotten their receipt.
+Customer #2 has left the store.
+Customer #6 has entered the store
+A loaf of bread has been baked!
+Customer #1 has taken a loaf of bread.
+Customer #1 has paid for the loaf of bread.
+Customer #1 has been handed their receipt.
+Customer #1 has gotten their receipt.
+Customer #1 has left the store.
+Customer #7 has entered the store
+A loaf of bread has been baked!
+Customer #4 has taken a loaf of bread.
+Customer #4 has paid for the loaf of bread.
+Customer #4 has been handed their receipt.
+Customer #4 has gotten their receipt.
+Customer #4 has left the store.
+Customer #8 has entered the store
+A loaf of bread has been baked!
+Customer #3 has taken a loaf of bread.
+Customer #3 has paid for the loaf of bread.
+Customer #3 has been handed their receipt.
+Customer #3 has gotten their receipt.
+Customer #3 has left the store.
+Customer #9 has entered the store
+A loaf of bread has been baked!
+Customer #5 has taken a loaf of bread.
+Customer #5 has paid for the loaf of bread.
+Customer #5 has been handed their receipt.
+Customer #5 has gotten their receipt.
+Customer #5 has left the store.
+Customer #10 has entered the store
+A loaf of bread has been baked!
+Customer #6 has taken a loaf of bread.
+Customer #6 has paid for the loaf of bread.
+Customer #6 has been handed their receipt.
+Customer #6 has gotten their receipt.
+Customer #6 has left the store.
+A loaf of bread has been baked!
+Customer #7 has taken a loaf of bread.
+Customer #7 has paid for the loaf of bread.
+Customer #7 has been handed their receipt.
+Customer #7 has gotten their receipt.
+Customer #7 has left the store.
+A loaf of bread has been baked!
+Customer #8 has taken a loaf of bread.
+Customer #8 has paid for the loaf of bread.
+Customer #8 has been handed their receipt.
+Customer #8 has gotten their receipt.
+Customer #8 has left the store.
+A loaf of bread has been baked!
+Customer #9 has taken a loaf of bread.
+Customer #9 has paid for the loaf of bread.
+Customer #9 has been handed their receipt.
+Customer #9 has gotten their receipt.
+Customer #9 has left the store.
+A loaf of bread has been baked!
+Customer #10 has taken a loaf of bread.
+Baking is completed!
+Customer #10 has paid for the loaf of bread.
+Customer #10 has been handed their receipt.
+Customer #10 has gotten their receipt.
+Customer #10 has left the store.
+]0;dab33@gold04: ~/cs/232/proj06[01;32mdab33@gold04[00m:[01;34m~/cs/232/proj06[00m$ ./bakeshop
+Bakery is starting up...
+Customer #2 has entered the store
+Customer #3 has entered the store
+Customer #5 has entered the store
+Customer #4 has entered the store
+Customer #1 has entered the store
+A loaf of bread has been baked!
+Customer #2 has taken a loaf of bread.
+Customer #2 has paid for the loaf of bread.
+Customer #2 has been handed their receipt.
+Customer #2 has gotten their receipt.
+Customer #2 has left the store.
+Customer #6 has entered the store
+A loaf of bread has been baked!
+Customer #3 has taken a loaf of bread.
+Customer #3 has paid for the loaf of bread.
+Customer #3 has been handed their receipt.
+Customer #3 has gotten their receipt.
+Customer #3 has left the store.
+Customer #7 has entered the store
+A loaf of bread has been baked!
+Customer #5 has taken a loaf of bread.
+Customer #5 has paid for the loaf of bread.
+Customer #5 has been handed their receipt.
+Customer #5 has gotten their receipt.
+Customer #5 has left the store.
+Customer #8 has entered the store
+A loaf of bread has been baked!
+Customer #4 has taken a loaf of bread.
+Customer #4 has paid for the loaf of bread.
+Customer #4 has been handed their receipt.
+Customer #4 has gotten their receipt.
+Customer #4 has left the store.
+Customer #9 has entered the store
+A loaf of bread has been baked!
+Customer #1 has taken a loaf of bread.
+Customer #1 has paid for the loaf of bread.
+Customer #1 has been handed their receipt.
+Customer #1 has gotten their receipt.
+Customer #1 has left the store.
+Customer #10 has entered the store
+A loaf of bread has been baked!
+Customer #6 has taken a loaf of bread.
+Customer #6 has paid for the loaf of bread.
+Customer #6 has been handed their receipt.
+Customer #6 has gotten their receipt.
+Customer #6 has left the store.
+A loaf of bread has been baked!
+Customer #7 has taken a loaf of bread.
+Customer #7 has paid for the loaf of bread.
+Customer #7 has been handed their receipt.
+Customer #7 has gotten their receipt.
+Customer #7 has left the store.
+A loaf of bread has been baked!
+Customer #8 has taken a loaf of bread.
+Customer #8 has paid for the loaf of bread.
+Customer #8 has been handed their receipt.
+Customer #8 has gotten their receipt.
+Customer #8 has left the store.
+A loaf of bread has been baked!
+Customer #9 has taken a loaf of bread.
+Customer #9 has paid for the loaf of bread.
+Customer #9 has been handed their receipt.
+Customer #9 has gotten their receipt.
+Customer #9 has left the store.
+A loaf of bread has been baked!
+Customer #10 has taken a loaf of bread.
+Baking is completed!
+Customer #10 has paid for the loaf of bread.
+Customer #10 has been handed their receipt.
+Customer #10 has gotten their receipt.
+Customer #10 has left the store.

@@ -1,0 +1,5 @@
+Does your program run the same way each time? Why?
+No, the order in which the threads run is essentially random
+
+Give your last customer thread the highest priority. Does this ensure that this customer is always given first priority? Why or why not?
+No, because the last customer could enter the store after a number of customers have already gone through the store. 
